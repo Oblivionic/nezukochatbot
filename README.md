@@ -7,9 +7,9 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database and 
 
 Can be found on telegram as [SaitamaRobot](https://t.me/SaitamaRobot).
 
-The Support group can be reached out to at [One Punch Support](https://t.me/OnePunchSupport), where you can ask for help about [SaitamaRobot](https://t.me/SaitamaRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [One Punch Support](https://t.me/OnePunchSupport), where you can ask for help about [Nezukochatbot](https://t.me/nezukochatbot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [One Punch Updates](https://t.me/OnePunchUpdates) 
+News channel as at [Steins Updates](https://t.me/Steins_updates)
 
 ## How to setup/deploy.
 
@@ -56,13 +56,13 @@ An example `config.py` file could be:
 from SaitamaRobot.sample_config import Config
 
 class Development(Config):
-    OWNER_ID = 254318997  # your telegram ID
-    OWNER_USERNAME = "SonOfLars"  # your telegram username
-    API_KEY = "your bot api key"  # your api key, as provided by the @botfather
+    OWNER_ID = 1483971607  # your telegram ID
+    OWNER_USERNAME = "Nezuko_chan02"  # your telegram username
+    API_KEY = "1498917276:AAEWYIKwfqTatXNuvaEfBl5BLETL9llaDZM"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
     USE_JOIN_LOGGER = True
-    DRAGONS = [18673980, 83489514]  # List of id's for users which have sudo access to the bot.
+    DRAGONS = [1396244257, 998194558, 979499093, 781807433]   #of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
@@ -180,4 +180,4 @@ Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (wil
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [One Punch Support](https://t.me/OnePunchSupport) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [kurisu_makise_support])(https://t.me/OnePunchSupport) #uest on the readme.
