@@ -5,9 +5,9 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [SaitamaRobot](https://t.me/SaitamaRobot).
+Can be found on telegram as [Nezukochatbot](https://t.me/nezukochatbot).
 
-The Support group can be reached out to at [One Punch Support](https://t.me/OnePunchSupport), where you can ask for help about [Nezukochatbot](https://t.me/nezukochatbot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [kurisu makise Support](https://t.me/kurisu_makise_support), where you can ask for help about [Nezukochatbot](https://t.me/nezukochatbot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [Steins Updates](https://t.me/Steins_updates)
 
